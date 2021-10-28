@@ -1,0 +1,15 @@
+{
+   "applinks": {
+       "apps": [],
+       "details": [
+           {
+               "appID": "BG24A8Q9SX.co.id.codemi.app",
+               "paths": [ "*" ]
+           },
+           {
+               "appID":"BG24A8Q9SX.co.id.codemi.app.staging",
+               "paths": [ "*" ]
+           }
+       ]
+   }
+}

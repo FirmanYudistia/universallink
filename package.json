@@ -1,0 +1,27 @@
+{
+  "name": "codemideeplinktest",
+  "version": "1.0.0",
+  "description": "this is test for universal-link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing",
+    "universal-link",
+    "ios"
+  ],
+  "author": "firman ni boss",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-device": "^0.4.2",
+    "mobile-detect": "^1.4.5",
+    "node-deeplink": "^0.6.0",
+    "zombie": "^6.1.4"
+  },
+  "engines": {
+    "node": "14.16.1"
+  }
+}
